@@ -23,5 +23,3 @@ I'm an **AI Trainer** transitioning into an **AI Engineer**, passionate about bu
 - [LinkedIn](www.linkedin.com/in/hamzaanees) 
 - [GitHub](https://github.com/Hmza72)
 
-### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hmza72&show_icons=true&theme=radical)
