@@ -1,25 +1,36 @@
-# Hi there, I'm Hamza! 👋
+👋 Hi, I'm Hamza!
+I'm an AI Trainer transitioning into an AI Engineer, passionate about building AI-driven solutions. I love working with Python, building automation tools, and solving problems in bioinformatics.
 
-I'm an **AI Trainer** transitioning into an **AI Engineer**, passionate about building AI-driven solutions. I love working on AI projects, exploring Python, and solving problems in bioinformatics.
+🚀 About Me:
+🌱 Currently learning: AI Development, Machine Learning, Python
 
-### 🚀 About Me:
-- 🌱 I’m currently learning: **AI Development, Machine Learning, Python**
-- 🔭 Working on: **Jarvis AI Project**
-- 👨‍💻 Most recent project: [Snake Water Gun Game](https://github.com/Hmza72/Snake-Water-Gun)
-- 🎓 Pursuing an Associate degree in **Bioinformatics**
-- 💬 Ask me about: AI, Python, Bioinformatics, Web3, Game Development
+🔭 Working on: Jarvis AI Project
 
-### 🛠️ Technologies & Tools:
-- **Languages**: Python, SQL
-- **AI/ML**: TensorFlow, PyTorch (learning)
-- **Web Development**: HTML, CSS, JavaScript (basics)
-- **Bioinformatics Tools**: BLAST, NCBI, GenBank
+🏗️ Recent projects: Advanced Web Scraper & LinkedIn Public Scraper
 
-### 🏆 Projects:
-- **[Snake Water Gun Game](https://github.com/Hmza72/Snake-Water-Gun)**: A simple Python game using basic programming concepts.
-- **Jarvis AI** *(Coming soon)*: A personal assistant AI with voice recognition, automation features, and more.
+🎓 Pursuing an Associate Degree in Bioinformatics
 
-### 🌐 Connect with Me:
-- [LinkedIn](www.linkedin.com/in/hamzaanees) 
-- [GitHub](https://github.com/Hmza72)
+💬 Ask me about: AI, Python, Bioinformatics, Web Scraping, Game Development
 
+🛠️ Technologies & Tools:
+Languages: Python, SQL
+
+AI/ML: TensorFlow, PyTorch (learning)
+
+Web Development: HTML, CSS, JavaScript (basics)
+
+Bioinformatics Tools: BLAST, NCBI, GenBank
+
+🏆 Featured Projects:
+Snake Water Gun Game: A simple Python game using basic programming concepts.
+
+Advanced Web Scraper: A flexible Python tool for scraping data from websites.
+
+LinkedIn Public Scraper: Scrapes public profile information from LinkedIn.
+
+Jarvis AI (Coming soon): A smart personal assistant with voice commands and automation features.
+
+🌐 Let's Connect:
+LinkedIn
+
+GitHub
