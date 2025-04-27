@@ -6,7 +6,7 @@ I'm an AI Trainer transitioning into an AI Engineer, passionate about building A
 
 🔭 Working on: Jarvis AI Project
 
-🏗️ Recent projects: Advanced Web Scraper & LinkedIn Public Scraper
+🏗️ Recent projects: Advanced Web Scraper & LinkedInScraper
 
 🎓 Pursuing an Associate Degree in Bioinformatics
 
@@ -34,3 +34,4 @@ Jarvis AI (Coming soon): A smart personal assistant with voice commands and auto
 LinkedIn
 
 GitHub
+
