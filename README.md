@@ -7,7 +7,7 @@ I'm an **AI Trainer** transitioning into an **AI Engineer**, passionate about bu
 ## 🚀 About Me
 - 🌱 Currently learning: **AI Development, Machine Learning, Python**
 - 🔭 Working on: **Jarvis AI Project**
-- 🏗️ Recent projects: **[LinkedInScraper](https://github.com/Hmza72/LinkedinScraper)** and **[Advanced Web Scraper](https://github.com/Hmza72/LinkedinScraper)**
+- 🏗️ Recent projects: **[LinkedInScraper](https://github.com/Hmza72/LinkedinScraper)** and **[Advanced Web Scraper](https://github.com/Hmza72/AdvancedWebScraper)**
 - 🎓 Pursuing an Associate Degree in **Bioinformatics**
 - 💬 Ask me about: **AI, Python, Bioinformatics, Web Scraping, Game Development**
 
