@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza!
 
-I'm an **AI Trainer** transitioning into an **AI Engineer**, passionate about building AI-driven solutions. I love working with Python, building automation tools, and solving problems in bioinformatics.
+I'm an **AI Trainer** transitioning into an **Data Science**, passionate about building AI-driven solutions. I love working with Python, building automation tools, and solving problems in bioinformatics.
 
 ---
 
